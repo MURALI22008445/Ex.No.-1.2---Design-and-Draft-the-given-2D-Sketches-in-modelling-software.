@@ -36,7 +36,10 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
- 
- 
+      
+
+
+       ![edm 2 murali_page-0001](https://github.com/MURALI22008445/Ex.No.-1.2---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/119643767/63171557-c36a-4586-9d4e-84aa57ac6541)
+                                                                   
  ## RESULT
  Thus the given sketch is drawn and drafted using fusion 360 tool.
